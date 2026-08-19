@@ -19,7 +19,7 @@
             },
             "source": "Apple Pay",
             "ext": "png"
-        }
+        },
         {
             "description": "IHG Rewards",
             "bin": [
