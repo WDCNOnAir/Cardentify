@@ -77,6 +77,20 @@
             "ext": "jpg"
         },
         {
+            "description": "Marriott Bonvoy Brilliant® American Express® Card",
+            "bin": [
+                341258
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "AMEX",
+                "country": "US",
+                "level": "Standard"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        },
+        {
             "description": "Marriott Bonvoy® American Express® Card",
             "bin": [
                 340176
