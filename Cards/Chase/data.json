@@ -20,5 +20,19 @@
             "source": "Apple Pay",
             "ext": "png"
         }
+        {
+            "description": "IHG Rewards",
+            "bin": [
+                546604
+            ],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "level": "World Elite",
+                "country": "US"
+            },
+            "source": "Apple Pay",
+            "ext": "png"
+        }
     ]
 }
